@@ -64,3 +64,5 @@ Through; https://smart-duka.vercel.app/
 4. Ashington Munene
 
 ## License
+
+&copy; 2025 Ashington Munene — Moringa School.
