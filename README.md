@@ -22,7 +22,7 @@ Designed for small retail setups and duka owners, it supports inventory tracking
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/BirunduGloria/smart-duka
+   https://github.com/AshingtonMunene11/smart-duka
    cd smart-duka
    ```
 2. **Install dependencies:**
@@ -36,8 +36,8 @@ Designed for small retail setups and duka owners, it supports inventory tracking
 npm run dev
 
 ```
-View app on vercel
-Through; https://smart-duka-59kqg7qxt-gloria-birundus-projects.vercel.app/
+View the app on Vercel
+Through; https://smart-duka.vercel.app/
 
 ### Project Structure
 📦app/
@@ -64,4 +64,3 @@ Through; https://smart-duka-59kqg7qxt-gloria-birundus-projects.vercel.app/
 4. Ashington Munene
 
 ## License
-[MIT](LICENSE)
