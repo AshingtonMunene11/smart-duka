@@ -51,7 +51,7 @@ Through; https://smart-duka.vercel.app/
 
 ### Inventory Data
 - Product data is stored in `public/data/products.json`.
-- For demo purposes, changes to inventory are in-memory only (not persisted to disk).
+- For demo purposes, inventory changes are in-memory only (not persisted to disk).
 
 ### Admin Access
 - Only users with the `admin` role can access inventory management features.
