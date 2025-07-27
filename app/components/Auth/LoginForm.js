@@ -16,6 +16,7 @@ function LoginForm() {
 
     const allowedAdminEmails = [
       'ashington.munene@student.moringaschool.com',
+      'munenefrank11@gmail.com',
       'peter.munyambu@student.moringaschool.com',
       'gideon.kimaiyo@student.moringaschool.com',
       'gloria.birundu@student.moringaschool.com',
