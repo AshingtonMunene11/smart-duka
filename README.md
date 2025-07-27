@@ -56,6 +56,7 @@ Through; https://smart-duka.vercel.app/
 ### Admin Access
 - Only users with the `admin` role can access inventory management features.
 - You can adjust user roles in the context or authentication logic as needed.
+- To view as an admin, use `munenefrank11@gmail.com` and password `1234`
 
 ### Author
 1. Gloria Birindu
